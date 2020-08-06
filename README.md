@@ -2,7 +2,7 @@
 
 ### Installation ###
 
-* git clone git@bitbucket.org:rajaslucky89/dotatesting.git
+* git clone git@bitbucket.org:rajaslucky89/SehatQ.git
 * Run pod install
 
 ### Dependencies ###
